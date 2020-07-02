@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LLK_Setup", "LLK_Setup.vdproj", "{26649766-6356-48E5-AD0B-7F5E2A622215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26649766-6356-48E5-AD0B-7F5E2A622215}.Debug|Default.ActiveCfg = Debug
+		{26649766-6356-48E5-AD0B-7F5E2A622215}.Debug|Default.Build.0 = Debug
+		{26649766-6356-48E5-AD0B-7F5E2A622215}.Release|Default.ActiveCfg = Release
+		{26649766-6356-48E5-AD0B-7F5E2A622215}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C034B57-0682-49C9-8DE9-0B56935B82A9}
+	EndGlobalSection
+EndGlobal
